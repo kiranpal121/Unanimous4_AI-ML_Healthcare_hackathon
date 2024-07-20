@@ -1,0 +1,1350 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi there",
+                "How are you",
+                "Is anyone there?",
+                "Hey",
+                "Hola",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hello, thanks for asking",
+                "Good to see you again",
+                "Hi there, how can I help?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Nice chatting to you, bye",
+                "Till next time"
+            ],
+            "responses": [
+                "See you!",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "What is Ayurveda?",
+            "patterns": [
+                "What is Ayurveda?"
+            ],
+            "responses": [
+                "Ayurveda is a traditional system of medicine from India that dates back thousands of years."
+            ],
+            "context": [
+                "Ayurveda is a traditional system of medicine from India that dates back thousands of years. It emphasizes balance among the body, mind, and spirit and uses a variety of treatments, including diet, herbal remedies, and lifestyle practices."
+            ]
+        },
+        {
+            "tag": "What does Ayurveda emphasize?",
+            "patterns": [
+                "What does Ayurveda emphasize?"
+            ],
+            "responses": [
+                "Balance among the body, mind, and spirit"
+            ],
+            "context": [
+                "Ayurveda is a traditional system of medicine from India that dates back thousands of years. It emphasizes balance among the body, mind, and spirit and uses a variety of treatments, including diet, herbal remedies, and lifestyle practices."
+            ]
+        },
+        {
+            "tag": "What are some treatments used in Ayurveda?",
+            "patterns": [
+                "What are some treatments used in Ayurveda?"
+            ],
+            "responses": [
+                "Diet, herbal remedies, and lifestyle practices"
+            ],
+            "context": [
+                "Ayurveda is a traditional system of medicine from India that dates back thousands of years. It emphasizes balance among the body, mind, and spirit and uses a variety of treatments, including diet, herbal remedies, and lifestyle practices."
+            ]
+        },
+        {
+            "tag": "How many doshas govern health in Ayurveda?",
+            "patterns": [
+                "How many doshas govern health in Ayurveda?"
+            ],
+            "responses": [
+                "Three doshas"
+            ],
+            "context": [
+                "In Ayurveda, health is believed to be governed by three doshas: Vata (air and space), Pitta (fire and water), and Kapha (water and earth). Each person has a unique combination of these doshas, which determines their constitution."
+            ]
+        },
+        {
+            "tag": "What are the three doshas in Ayurveda?",
+            "patterns": [
+                "What are the three doshas in Ayurveda?"
+            ],
+            "responses": [
+                "Vata (air and space), Pitta (fire and water), and Kapha (water and earth)"
+            ],
+            "context": [
+                "In Ayurveda, health is believed to be governed by three doshas: Vata (air and space), Pitta (fire and water), and Kapha (water and earth). Each person has a unique combination of these doshas, which determines their constitution."
+            ]
+        },
+        {
+            "tag": "What does each person's unique combination of doshas determine?",
+            "patterns": [
+                "What does each person's unique combination of doshas determine?"
+            ],
+            "responses": [
+                "Their constitution"
+            ],
+            "context": [
+                "In Ayurveda, health is believed to be governed by three doshas: Vata (air and space), Pitta (fire and water), and Kapha (water and earth). Each person has a unique combination of these doshas, which determines their constitution."
+            ]
+        },
+        {
+            "tag": "Which dosha is considered the most powerful in Ayurveda?",
+            "patterns": [
+                "Which dosha is considered the most powerful in Ayurveda?"
+            ],
+            "responses": [
+                "Vata dosha"
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "What basic body functions does Vata dosha control?",
+            "patterns": [
+                "What basic body functions does Vata dosha control?"
+            ],
+            "responses": [
+                "How cells divide, mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines."
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "What can disrupt Vata dosha?",
+            "patterns": [
+                "What can disrupt Vata dosha?"
+            ],
+            "responses": [
+                "Eating again too soon after a meal, fear, grief, and staying up too late."
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "What are the characteristics of a person with dominant Vata dosha?",
+            "patterns": [
+                "What are the characteristics of a person with dominant Vata dosha?"
+            ],
+            "responses": [
+                "Smart, creative, vibrant, and their moods change quickly. Physically, they may be thin and lose weight easily, and are usually cold."
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "What issues can occur when Vata dosha is out of balance?",
+            "patterns": [
+                "What issues can occur when Vata dosha is out of balance?"
+            ],
+            "responses": [
+                "Overstimulated, anxiety, phobias, forgetfulness, asthma, heart disease, skin problems, and rheumatoid arthritis."
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "How can you balance out too much Vata dosha?",
+            "patterns": [
+                "How can you balance out too much Vata dosha?"
+            ],
+            "responses": [
+                "Doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ],
+            "context": [
+                "The Three Doshas in Ayurveda Vata dosha Those who practice ayurveda believe this is the most powerful of all three doshas. It controls very basic body functions, like how cells divide. It also controls your mind, breathing, blood flow, heart function, and ability to get rid of waste through your intestines. Things that can disrupt it include eating again too soon after a meal, fear, grief, and staying up too late. If vata is your dominant dosha, you may be smart, creative, vibrant, and your moods change quickly. Physically, you may be thin and lose weight easily, and are usually cold. When you are out of balance, you can get overstimulated and have anxiety, phobias, and be forgetful. You can also be more likely to have conditions like asthma, heart disease, skin problems, and rheumatoid arthritis. In ayurveda, like increases like. For this dosha (space and air), you can balance out too much vata by doing things that are grounding like meditation, massage, keeping a regular sleep and wake schedule, and eating warm, mild foods."
+            ]
+        },
+        {
+            "tag": "What does Pitta dosha control?",
+            "patterns": [
+                "What does Pitta dosha control?"
+            ],
+            "responses": [
+                "Digestion, metabolism, and certain hormones linked to appetite."
+            ],
+            "context": [
+                "Pitta dosha This energy controls your digestion, metabolism (how well you break down foods), and certain hormones that are linked to your appetite. Things that can disrupt pitta are eating sour or spicy foods, spending too much time in the sun, and missing meals. If you are pitta dominant, then you may be goal-oriented, competitive, confident, and a natural leader. Physically, you may have a medium-sized, muscular build and tend to be hot most of the time. When out of balance, you can be too competitive, cranky, quick to anger, and impulsive. If pitta is your main dosha, you\u2019re thought to be more likely to have conditions like Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever when you are out of balance. To bring pitta (fire and water) back into balance, you can focus on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ]
+        },
+        {
+            "tag": "What can disrupt Pitta dosha?",
+            "patterns": [
+                "What can disrupt Pitta dosha?"
+            ],
+            "responses": [
+                "Eating sour or spicy foods, spending too much time in the sun, and missing meals."
+            ],
+            "context": [
+                "Pitta dosha This energy controls your digestion, metabolism (how well you break down foods), and certain hormones that are linked to your appetite. Things that can disrupt pitta are eating sour or spicy foods, spending too much time in the sun, and missing meals. If you are pitta dominant, then you may be goal-oriented, competitive, confident, and a natural leader. Physically, you may have a medium-sized, muscular build and tend to be hot most of the time. When out of balance, you can be too competitive, cranky, quick to anger, and impulsive. If pitta is your main dosha, you\u2019re thought to be more likely to have conditions like Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever when you are out of balance. To bring pitta (fire and water) back into balance, you can focus on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ]
+        },
+        {
+            "tag": "What are the characteristics of a person with dominant Pitta dosha?",
+            "patterns": [
+                "What are the characteristics of a person with dominant Pitta dosha?"
+            ],
+            "responses": [
+                "Goal-oriented, competitive, confident, and a natural leader. Physically, they may have a medium-sized, muscular build and tend to be hot most of the time."
+            ],
+            "context": [
+                "Pitta dosha This energy controls your digestion, metabolism (how well you break down foods), and certain hormones that are linked to your appetite. Things that can disrupt pitta are eating sour or spicy foods, spending too much time in the sun, and missing meals. If you are pitta dominant, then you may be goal-oriented, competitive, confident, and a natural leader. Physically, you may have a medium-sized, muscular build and tend to be hot most of the time. When out of balance, you can be too competitive, cranky, quick to anger, and impulsive. If pitta is your main dosha, you\u2019re thought to be more likely to have conditions like Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever when you are out of balance. To bring pitta (fire and water) back into balance, you can focus on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ]
+        },
+        {
+            "tag": "What issues can occur when Pitta dosha is out of balance?",
+            "patterns": [
+                "What issues can occur when Pitta dosha is out of balance?"
+            ],
+            "responses": [
+                "Too competitive, cranky, quick to anger, impulsive, Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever."
+            ],
+            "context": [
+                "Pitta dosha This energy controls your digestion, metabolism (how well you break down foods), and certain hormones that are linked to your appetite. Things that can disrupt pitta are eating sour or spicy foods, spending too much time in the sun, and missing meals. If you are pitta dominant, then you may be goal-oriented, competitive, confident, and a natural leader. Physically, you may have a medium-sized, muscular build and tend to be hot most of the time. When out of balance, you can be too competitive, cranky, quick to anger, and impulsive. If pitta is your main dosha, you\u2019re thought to be more likely to have conditions like Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever when you are out of balance. To bring pitta (fire and water) back into balance, you can focus on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ]
+        },
+        {
+            "tag": "How can you balance out too much Pitta dosha?",
+            "patterns": [
+                "How can you balance out too much Pitta dosha?"
+            ],
+            "responses": [
+                "Focusing on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ],
+            "context": [
+                "Pitta dosha This energy controls your digestion, metabolism (how well you break down foods), and certain hormones that are linked to your appetite. Things that can disrupt pitta are eating sour or spicy foods, spending too much time in the sun, and missing meals. If you are pitta dominant, then you may be goal-oriented, competitive, confident, and a natural leader. Physically, you may have a medium-sized, muscular build and tend to be hot most of the time. When out of balance, you can be too competitive, cranky, quick to anger, and impulsive. If pitta is your main dosha, you\u2019re thought to be more likely to have conditions like Crohn\u2019s disease, heart disease, high blood pressure, indigestion, and fever when you are out of balance. To bring pitta (fire and water) back into balance, you can focus on things that are cooling and light, like salads, cucumbers, and practicing moderation and slow or restorative yoga."
+            ]
+        },
+        {
+            "tag": "What does Kapha dosha control?",
+            "patterns": [
+                "What does Kapha dosha control?"
+            ],
+            "responses": [
+                "Muscle growth, body strength and stability, weight, and your immune system."
+            ],
+            "context": [
+                "Kapha dosha Kapha dosha is thought to control muscle growth, body strength and stability, weight, and your immune system. Things that can disrupt kapha include daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water. If kapha is your main dosha, you may like routine, stick to expectations, and be accepting, calm, and patient. Physically, you are more likely to have a broad frame and easily gain weight. When out of balance, you can easily get fatigued, avoid taking on new projects, and be possessive, stubborn, and depressed. If you are kapha dominant, you may be more likely to develop asthma and other breathing disorders, cancer, diabetes, nausea after eating, and obesity. To reduce excess kapha (earth and water) and be more balanced, you can increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ]
+        },
+        {
+            "tag": "What can disrupt Kapha dosha?",
+            "patterns": [
+                "What can disrupt Kapha dosha?"
+            ],
+            "responses": [
+                "Daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water."
+            ],
+            "context": [
+                "Kapha dosha Kapha dosha is thought to control muscle growth, body strength and stability, weight, and your immune system. Things that can disrupt kapha include daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water. If kapha is your main dosha, you may like routine, stick to expectations, and be accepting, calm, and patient. Physically, you are more likely to have a broad frame and easily gain weight. When out of balance, you can easily get fatigued, avoid taking on new projects, and be possessive, stubborn, and depressed. If you are kapha dominant, you may be more likely to develop asthma and other breathing disorders, cancer, diabetes, nausea after eating, and obesity. To reduce excess kapha (earth and water) and be more balanced, you can increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ]
+        },
+        {
+            "tag": "What are the characteristics of a person with dominant Kapha dosha?",
+            "patterns": [
+                "What are the characteristics of a person with dominant Kapha dosha?"
+            ],
+            "responses": [
+                "Like routine, stick to expectations, accepting, calm, and patient. Physically, they are more likely to have a broad frame and easily gain weight."
+            ],
+            "context": [
+                "Kapha dosha Kapha dosha is thought to control muscle growth, body strength and stability, weight, and your immune system. Things that can disrupt kapha include daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water. If kapha is your main dosha, you may like routine, stick to expectations, and be accepting, calm, and patient. Physically, you are more likely to have a broad frame and easily gain weight. When out of balance, you can easily get fatigued, avoid taking on new projects, and be possessive, stubborn, and depressed. If you are kapha dominant, you may be more likely to develop asthma and other breathing disorders, cancer, diabetes, nausea after eating, and obesity. To reduce excess kapha (earth and water) and be more balanced, you can increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ]
+        },
+        {
+            "tag": "What issues can occur when Kapha dosha is out of balance?",
+            "patterns": [
+                "What issues can occur when Kapha dosha is out of balance?"
+            ],
+            "responses": [
+                "Fatigued, avoid taking on new projects, possessive, stubborn, and depressed. More likely to develop asthma, breathing disorders, cancer, diabetes, nausea after eating, and obesity."
+            ],
+            "context": [
+                "Kapha dosha Kapha dosha is thought to control muscle growth, body strength and stability, weight, and your immune system. Things that can disrupt kapha include daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water. If kapha is your main dosha, you may like routine, stick to expectations, and be accepting, calm, and patient. Physically, you are more likely to have a broad frame and easily gain weight. When out of balance, you can easily get fatigued, avoid taking on new projects, and be possessive, stubborn, and depressed. If you are kapha dominant, you may be more likely to develop asthma and other breathing disorders, cancer, diabetes, nausea after eating, and obesity. To reduce excess kapha (earth and water) and be more balanced, you can increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ]
+        },
+        {
+            "tag": "How can you reduce excess Kapha dosha?",
+            "patterns": [
+                "How can you reduce excess Kapha dosha?"
+            ],
+            "responses": [
+                "Increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ],
+            "context": [
+                "Kapha dosha Kapha dosha is thought to control muscle growth, body strength and stability, weight, and your immune system. Things that can disrupt kapha include daytime naps, eating too many sweet foods, and eating or drinking things that contain too much salt or water. If kapha is your main dosha, you may like routine, stick to expectations, and be accepting, calm, and patient. Physically, you are more likely to have a broad frame and easily gain weight. When out of balance, you can easily get fatigued, avoid taking on new projects, and be possessive, stubborn, and depressed. If you are kapha dominant, you may be more likely to develop asthma and other breathing disorders, cancer, diabetes, nausea after eating, and obesity. To reduce excess kapha (earth and water) and be more balanced, you can increase the amount of fruits and vegetables in your diet, and do exercise that gets the blood flowing like jogging or sun salutations in yoga."
+            ]
+        },
+        {
+            "tag": "What does an ayurvedic practitioner consider when creating a treatment plan?",
+            "patterns": [
+                "What does an ayurvedic practitioner consider when creating a treatment plan?"
+            ],
+            "responses": [
+                "Your unique physical and emotional makeup, and your primary and secondary doshas."
+            ],
+            "context": [
+                "Ayurvedic Treatment An ayurvedic practitioner will create a treatment plan specifically designed for you. They\u2019ll take into account your unique physical and emotional makeup, and your primary and secondary doshas. They will use that information to work toward the goal of treatment, which is to bring your mind and body into balance."
+            ]
+        },
+        {
+            "tag": "What is the goal of ayurvedic treatment?",
+            "patterns": [
+                "What is the goal of ayurvedic treatment?"
+            ],
+            "responses": [
+                "To bring your mind and body into balance."
+            ],
+            "context": [
+                "Ayurvedic Treatment An ayurvedic practitioner will create a treatment plan specifically designed for you. They\u2019ll take into account your unique physical and emotional makeup, and your primary and secondary doshas. They will use that information to work toward the goal of treatment, which is to bring your mind and body into balance."
+            ]
+        },
+        {
+            "tag": "Why is there less clinical research on ayurveda compared to Western medicine?",
+            "patterns": [
+                "Why is there less clinical research on ayurveda compared to Western medicine?"
+            ],
+            "responses": [
+                "As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "What conditions may ayurveda treatments improve?",
+            "patterns": [
+                "What conditions may ayurveda treatments improve?"
+            ],
+            "responses": [
+                "Rheumatoid arthritis, blood pressure, and cholesterol."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "What does an ayurvedic diet focus on?",
+            "patterns": [
+                "What does an ayurvedic diet focus on?"
+            ],
+            "responses": [
+                "An increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "How can practicing yoga benefit health?",
+            "patterns": [
+                "How can practicing yoga benefit health?"
+            ],
+            "responses": [
+                "Reduce chronic pain and anxiety and improve circulation and digestion."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "What effect does fenugreek have on cholesterol?",
+            "patterns": [
+                "What effect does fenugreek have on cholesterol?"
+            ],
+            "responses": [
+                "Lower bad cholesterol (LDL) and increase good cholesterol (HDL)."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "What are the benefits of meditation in Ayurveda?",
+            "patterns": [
+                "What are the benefits of meditation in Ayurveda?"
+            ],
+            "responses": [
+                "Reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "Why is it important to talk to your doctor before trying Ayurveda?",
+            "patterns": [
+                "Why is it important to talk to your doctor before trying Ayurveda?"
+            ],
+            "responses": [
+                "The FDA doesnt review or approve ayurvedic products. 1 in 5 ayurvedic medicines contain toxic metals like lead, mercury, and arsenic which can cause life-threatening illnesses."
+            ],
+            "context": [
+                "Benefits of Ayurveda As with many alternative therapies, not as much clinical research has been done on ayurveda as on Western medicine. But many practices of ayurveda have been shown to improve health and well-being. If you have conditions like rheumatoid arthritis, ayurveda treatments may improve symptoms. Ayurveda has also been shown to lower blood pressure and cholesterol. An ayurvedic diet focuses on an increase in eating fruits, vegetables, and whole grains and decreasing meat intake, particularly red meat. This could reduce the risk of heart disease. Practicing yoga can reduce chronic pain and anxiety and improve circulation and digestion. Fenugreek has been shown to lower bad cholesterol (LDL) and increase good cholesterol (HDL). Meditation may reduce anxiety, increase focus, help you better manage stress, and improve the quality of your sleep. It may also help you manage symptoms of conditions like chronic pain, cancer, depression, and irritable bowel syndrome. It is important to note that the FDA doesn\u2019t review or approve ayurvedic products. In fact, it has banned certain ones from entering the country since 2007. What\u2019s more, the FDA has warned that 1 in 5 ayurvedic medicines contain toxic metals, like lead, mercury, and arsenic. These heavy metals can cause life-threatening illnesses, especially in children. Always talk to your doctor before you try ayurveda or any other alternative medical treatment."
+            ]
+        },
+        {
+            "tag": "What can you do if you're not ready to visit an ayurvedic practitioner?",
+            "patterns": [
+                "What can you do if you're not ready to visit an ayurvedic practitioner?"
+            ],
+            "responses": [
+                "There are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health."
+            ],
+            "context": [
+                "Ayurvedic Lifestyle If you have only used Western medicine, ayurveda may sound exotic. If youre not ready to visit an ayurvedic practitioner for a consultation, there are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health. For sleep/stress relief Try keeping a regular sleep/wake schedule and adopting better sleep hygiene. (Keep your bedroom quiet, at a comfortable temperature, and dark at bedtime. Keep laptops and phones out of the bedroom at night.) Set aside time (daily, if possible) for meditation. Practice deep breathing techniques like box breathing  breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times. Exercise Try a yoga class. You can go to a local studio, take online classes, or find free ones on YouTube. Increase the amount you move during the day. Listen to your body  maybe you need a long, slow walk one day and a brisk run another. Ayurvedic food Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. This may also help you sleep at night if you aren't trying to digest a heavy dinner. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ]
+        },
+        {
+            "tag": "What are some ayurvedic practices for sleep and stress relief?",
+            "patterns": [
+                "What are some ayurvedic practices for sleep and stress relief?"
+            ],
+            "responses": [
+                "Keeping a regular sleep/wake schedule, adopting better sleep hygiene, setting aside time for meditation, and practicing deep breathing techniques like box breathing."
+            ],
+            "context": [
+                "Ayurvedic Lifestyle If you have only used Western medicine, ayurveda may sound exotic. If youre not ready to visit an ayurvedic practitioner for a consultation, there are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health. For sleep/stress relief Try keeping a regular sleep/wake schedule and adopting better sleep hygiene. (Keep your bedroom quiet, at a comfortable temperature, and dark at bedtime. Keep laptops and phones out of the bedroom at night.) Set aside time (daily, if possible) for meditation. Practice deep breathing techniques like box breathing  breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times. Exercise Try a yoga class. You can go to a local studio, take online classes, or find free ones on YouTube. Increase the amount you move during the day. Listen to your body  maybe you need a long, slow walk one day and a brisk run another. Ayurvedic food Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. This may also help you sleep at night if you aren't trying to digest a heavy dinner. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ]
+        },
+        {
+            "tag": "What is box breathing?",
+            "patterns": [
+                "What is box breathing?"
+            ],
+            "responses": [
+                "Breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times."
+            ],
+            "context": [
+                "Ayurvedic Lifestyle If you have only used Western medicine, ayurveda may sound exotic. If youre not ready to visit an ayurvedic practitioner for a consultation, there are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health. For sleep/stress relief Try keeping a regular sleep/wake schedule and adopting better sleep hygiene. (Keep your bedroom quiet, at a comfortable temperature, and dark at bedtime. Keep laptops and phones out of the bedroom at night.) Set aside time (daily, if possible) for meditation. Practice deep breathing techniques like box breathing  breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times. Exercise Try a yoga class. You can go to a local studio, take online classes, or find free ones on YouTube. Increase the amount you move during the day. Listen to your body  maybe you need a long, slow walk one day and a brisk run another. Ayurvedic food Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. This may also help you sleep at night if you aren't trying to digest a heavy dinner. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ]
+        },
+        {
+            "tag": "What are some ways to increase exercise according to Ayurveda?",
+            "patterns": [
+                "What are some ways to increase exercise according to Ayurveda?"
+            ],
+            "responses": [
+                "Try a yoga class, increase the amount you move during the day, and listen to your body \u2013 maybe you need a long, slow walk one day and a brisk run another."
+            ],
+            "context": [
+                "Ayurvedic Lifestyle If you have only used Western medicine, ayurveda may sound exotic. If youre not ready to visit an ayurvedic practitioner for a consultation, there are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health. For sleep/stress relief Try keeping a regular sleep/wake schedule and adopting better sleep hygiene. (Keep your bedroom quiet, at a comfortable temperature, and dark at bedtime. Keep laptops and phones out of the bedroom at night.) Set aside time (daily, if possible) for meditation. Practice deep breathing techniques like box breathing  breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times. Exercise Try a yoga class. You can go to a local studio, take online classes, or find free ones on YouTube. Increase the amount you move during the day. Listen to your body  maybe you need a long, slow walk one day and a brisk run another. Ayurvedic food Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. This may also help you sleep at night if you aren't trying to digest a heavy dinner. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ]
+        },
+        {
+            "tag": "What should you focus on in an ayurvedic diet?",
+            "patterns": [
+                "What should you focus on in an ayurvedic diet?"
+            ],
+            "responses": [
+                "Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ],
+            "context": [
+                "Ayurvedic Lifestyle If you have only used Western medicine, ayurveda may sound exotic. If youre not ready to visit an ayurvedic practitioner for a consultation, there are many simple ayurvedic practices you can do at home to help balance your mental, physical, and spiritual health. For sleep/stress relief Try keeping a regular sleep/wake schedule and adopting better sleep hygiene. (Keep your bedroom quiet, at a comfortable temperature, and dark at bedtime. Keep laptops and phones out of the bedroom at night.) Set aside time (daily, if possible) for meditation. Practice deep breathing techniques like box breathing  breathe in for four counts, hold your breath for four counts, breathe out for four counts and hold again for four. Repeat this three or four times. Exercise Try a yoga class. You can go to a local studio, take online classes, or find free ones on YouTube. Increase the amount you move during the day. Listen to your body  maybe you need a long, slow walk one day and a brisk run another. Ayurvedic food Eat fresh, homemade food instead of processed products. Enjoy your food and eat when you are calm, instead of stressed or angry, for good digestion. Eat your biggest meal at lunch when your digestion is best. This may also help you sleep at night if you aren't trying to digest a heavy dinner. Focus on foods that balance all of the doshas, including fruits, vegetables, rice, nuts, and honey as a sweetener."
+            ]
+        },
+        {
+            "tag": "What does Rasa correspond to in English?",
+            "patterns": [
+                "What does Rasa correspond to in English?"
+            ],
+            "responses": [
+                "Rasa roughly corresponds to 'taste' in English."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "How is Rasa defined in Ayurveda?",
+            "patterns": [
+                "How is Rasa defined in Ayurveda?"
+            ],
+            "responses": [
+                "Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).'"
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "When is Rasa experienced according to Caraka?",
+            "patterns": [
+                "When is Rasa experienced according to Caraka?"
+            ],
+            "responses": [
+                "Rasa is experienced the moment a substance comes into contact with the tongue."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "What does 'anurasa' refer to?",
+            "patterns": [
+                "What does 'anurasa' refer to?"
+            ],
+            "responses": [
+                "Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa)."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "What additional actions are attributed to Rasa in Ayurveda?",
+            "patterns": [
+                "What additional actions are attributed to Rasa in Ayurveda?"
+            ],
+            "responses": [
+                "'Flavors' experienced by means of retronasal olfaction and chemesthesis irritation."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "What does Rasa refer to in Ayurveda?",
+            "patterns": [
+                "What does Rasa refer to in Ayurveda?"
+            ],
+            "responses": [
+                "'Rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "How can Rasa differ in a substance according to Caraka?",
+            "patterns": [
+                "How can Rasa differ in a substance according to Caraka?"
+            ],
+            "responses": [
+                "The rasa can be different in fresh condition and dry form of the same substance."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "What is an example of a substance with different Rasa in fresh and dry conditions?",
+            "patterns": [
+                "What is an example of a substance with different Rasa in fresh and dry conditions?"
+            ],
+            "responses": [
+                "Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu."
+            ],
+            "context": [
+                "Rasa, roughly corresponds to 'taste' in English. Ayurvedic pharmacology has the concept that helps exploring and verifying pharmacological behavior of a substance based on its rasa. Rasa is quite larger a concept than taste, where taste is only the first tool to enter into a larger concept. Rasa is defined as a 'knowledge perceived through Rasan\u0101 Indriya (roughly gustatory sensation) located at Jihv\u0101 (tongue).' Caraka says rasa is experienced the moment a substance comes into contact with the tongue. Caraka further states that the clearly perceived knowledge is only the rasa of the substance. Any other perception like those which happen afterwards or mildly are termed anurasa (a sequel to the main rasa). In Ayurveda, rasa has not been limited to the sensory knowledge through the taste buds but it has also been attributed certain actions which can be linked to the 'flavors' experienced by means of retronasal olfaction and chemesthesis irritation. Thus, 'rasa' refers to a complex totality of experience arising from all the perceptory interactions of the material with sensors in the mouth and nasal passages, taste buds, olfactory and chemesthetic receptors. Caraka goes on to state that the rasa can be different in fresh condition and dry form of the same substance. Further, the same substance having different rasa in fresh and dry condition have different pharmacological properties in those conditions. For example, Piper longum Linn. is Madhura in fresh condition, whereas in dry form it is Katu and accordingly fresh P. longum is heavier to digest (guru) than dry P. longum which is easy to digest (laghu). Therefore, it is obvious that since rasa indicates the pharmacological behavior of the substance as and when the substance is presented before the user, rasa can be used as a tool to test the substance in use."
+            ]
+        },
+        {
+            "tag": "How is Rasa used in Ayurveda?",
+            "patterns": [
+                "How is Rasa used in Ayurveda?"
+            ],
+            "responses": [
+                "Rasa has been used to guide the nourishment of the body."
+            ],
+            "context": [
+                "Rasa has been used to guide the nourishment of the body. A diet comprising of all the six rasas is said to be the ideal one, indicating that all components required for a living system can be incorporated under the six rasas. Su\u015bruta says, the strength, complexion, immunity, etc., of a living system is under the control of diet which in turn is under control of the six rasas."
+            ]
+        },
+        {
+            "tag": "What does a diet comprising all six Rasas indicate?",
+            "patterns": [
+                "What does a diet comprising all six Rasas indicate?"
+            ],
+            "responses": [
+                "All components required for a living system can be incorporated under the six rasas."
+            ],
+            "context": [
+                "Rasa has been used to guide the nourishment of the body. A diet comprising of all the six rasas is said to be the ideal one, indicating that all components required for a living system can be incorporated under the six rasas. Su\u015bruta says, the strength, complexion, immunity, etc., of a living system is under the control of diet which in turn is under control of the six rasas."
+            ]
+        },
+        {
+            "tag": "What aspects of a living system are controlled by diet according to Su\u015bruta?",
+            "patterns": [
+                "What aspects of a living system are controlled by diet according to Su\u015bruta?"
+            ],
+            "responses": [
+                "The strength, complexion, immunity, etc., of a living system."
+            ],
+            "context": [
+                "Rasa has been used to guide the nourishment of the body. A diet comprising of all the six rasas is said to be the ideal one, indicating that all components required for a living system can be incorporated under the six rasas. Su\u015bruta says, the strength, complexion, immunity, etc., of a living system is under the control of diet which in turn is under control of the six rasas."
+            ]
+        },
+        {
+            "tag": "What does the term 'Rasa' signify in Ayurveda?",
+            "patterns": [
+                "What does the term 'Rasa' signify in Ayurveda?"
+            ],
+            "responses": [
+                "Many things, including the sense of taste perceived by the tongue, good and bad experiences, and a stage of spiritual union with the soul."
+            ],
+            "context": [
+                "Term Rasa in Ayurveda signifies many things. Most commonly it is understood on the physical level where it points towards the sense of taste perceived by the sense organ tongue. On the mental level it is the good and bad experiences we have in our lives for e.g. a favorable experience is sweet. Good and bad memories and experiences are often referred to as sweet and bitter respectively. Sweet experiences are nourishing for the mind as well as the body while bitter ones have the opposite effect. Spiritually speaking \u2018Atma rasa\u2019 where \u2018Atma\u2019 signifies our soul is a stage where one is in union with one\u2019s soul. This union is a state of ecstasy. This stage is beyond the perception of mind hence it is not bitter or sweet but always neutral. Health is a state of complete physical, mental and spiritual well being. Hence \u2018rasa\u2019 so vividly described in Ayurveda is the basis of health."
+            ]
+        },
+        {
+            "tag": "What does 'Rasa' point towards on the physical level?",
+            "patterns": [
+                "What does 'Rasa' point towards on the physical level?"
+            ],
+            "responses": [
+                "The sense of taste perceived by the sense organ tongue."
+            ],
+            "context": [
+                "Term Rasa in Ayurveda signifies many things. Most commonly it is understood on the physical level where it points towards the sense of taste perceived by the sense organ tongue. On the mental level it is the good and bad experiences we have in our lives for e.g. a favorable experience is sweet. Good and bad memories and experiences are often referred to as sweet and bitter respectively. Sweet experiences are nourishing for the mind as well as the body while bitter ones have the opposite effect. Spiritually speaking \u2018Atma rasa\u2019 where \u2018Atma\u2019 signifies our soul is a stage where one is in union with one\u2019s soul. This union is a state of ecstasy. This stage is beyond the perception of mind hence it is not bitter or sweet but always neutral. Health is a state of complete physical, mental and spiritual well being. Hence \u2018rasa\u2019 so vividly described in Ayurveda is the basis of health."
+            ]
+        },
+        {
+            "tag": "How are good and bad experiences referred to in Ayurveda?",
+            "patterns": [
+                "How are good and bad experiences referred to in Ayurveda?"
+            ],
+            "responses": [
+                "Sweet and bitter respectively."
+            ],
+            "context": [
+                "Term Rasa in Ayurveda signifies many things. Most commonly it is understood on the physical level where it points towards the sense of taste perceived by the sense organ tongue. On the mental level it is the good and bad experiences we have in our lives for e.g. a favorable experience is sweet. Good and bad memories and experiences are often referred to as sweet and bitter respectively. Sweet experiences are nourishing for the mind as well as the body while bitter ones have the opposite effect. Spiritually speaking \u2018Atma rasa\u2019 where \u2018Atma\u2019 signifies our soul is a stage where one is in union with one\u2019s soul. This union is a state of ecstasy. This stage is beyond the perception of mind hence it is not bitter or sweet but always neutral. Health is a state of complete physical, mental and spiritual well being. Hence \u2018rasa\u2019 so vividly described in Ayurveda is the basis of health."
+            ]
+        },
+        {
+            "tag": "What is 'Atma rasa'?",
+            "patterns": [
+                "What is 'Atma rasa'?"
+            ],
+            "responses": [
+                "A stage where one is in union with one's soul, a state of ecstasy."
+            ],
+            "context": [
+                "Term Rasa in Ayurveda signifies many things. Most commonly it is understood on the physical level where it points towards the sense of taste perceived by the sense organ tongue. On the mental level it is the good and bad experiences we have in our lives for e.g. a favorable experience is sweet. Good and bad memories and experiences are often referred to as sweet and bitter respectively. Sweet experiences are nourishing for the mind as well as the body while bitter ones have the opposite effect. Spiritually speaking \u2018Atma rasa\u2019 where \u2018Atma\u2019 signifies our soul is a stage where one is in union with one\u2019s soul. This union is a state of ecstasy. This stage is beyond the perception of mind hence it is not bitter or sweet but always neutral. Health is a state of complete physical, mental and spiritual well being. Hence \u2018rasa\u2019 so vividly described in Ayurveda is the basis of health."
+            ]
+        },
+        {
+            "tag": "What is the basis of health according to Ayurveda?",
+            "patterns": [
+                "What is the basis of health according to Ayurveda?"
+            ],
+            "responses": [
+                "'Rasa' so vividly described in Ayurveda is the basis of health."
+            ],
+            "context": [
+                "Term Rasa in Ayurveda signifies many things. Most commonly it is understood on the physical level where it points towards the sense of taste perceived by the sense organ tongue. On the mental level it is the good and bad experiences we have in our lives for e.g. a favorable experience is sweet. Good and bad memories and experiences are often referred to as sweet and bitter respectively. Sweet experiences are nourishing for the mind as well as the body while bitter ones have the opposite effect. Spiritually speaking \u2018Atma rasa\u2019 where \u2018Atma\u2019 signifies our soul is a stage where one is in union with one\u2019s soul. This union is a state of ecstasy. This stage is beyond the perception of mind hence it is not bitter or sweet but always neutral. Health is a state of complete physical, mental and spiritual well being. Hence \u2018rasa\u2019 so vividly described in Ayurveda is the basis of health."
+            ]
+        },
+        {
+            "tag": "How many tastes or Rasas are there in Ayurveda?",
+            "patterns": [
+                "How many tastes or Rasas are there in Ayurveda?"
+            ],
+            "responses": [
+                "Six"
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "What is the element composition of Sweet Rasa?",
+            "patterns": [
+                "What is the element composition of Sweet Rasa?"
+            ],
+            "responses": [
+                "Water + Earth"
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "What dosha does sweet Rasa aggravate?",
+            "patterns": [
+                "What dosha does sweet Rasa aggravate?"
+            ],
+            "responses": [
+                "Kapha"
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "Which Rasas pacify Vata dosha?",
+            "patterns": [
+                "Which Rasas pacify Vata dosha?"
+            ],
+            "responses": [
+                "Sweet, sour, and salty."
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "Which Rasas pacify Pitta dosha?",
+            "patterns": [
+                "Which Rasas pacify Pitta dosha?"
+            ],
+            "responses": [
+                "Sweet, bitter, and astringent."
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "Which Rasas pacify Kapha dosha?",
+            "patterns": [
+                "Which Rasas pacify Kapha dosha?"
+            ],
+            "responses": [
+                "Pungent, bitter, and astringent."
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "Why should all 6 tastes be included in each meal?",
+            "patterns": [
+                "Why should all 6 tastes be included in each meal?"
+            ],
+            "responses": [
+                "All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled."
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "What is the key to balancing the body in Ayurveda?",
+            "patterns": [
+                "What is the key to balancing the body in Ayurveda?"
+            ],
+            "responses": [
+                "Choosing foods and herbs that have the opposite qualities of the doshic imbalance."
+            ],
+            "context": [
+                "Taste or Rasa are six in number. Each rasa has a quality which is the attribute of the 2 primary elements it is composed of. The organ of perception of taste \u2013tongue has the predominance of water element (dry tongue cannot perceive tastes). Taste Elements Sweet Water + Earth Sour Earth + Fire Salty Water + Fire Pungent Air + fire Bitter Air + space Astringent Air + Earth Each Rasa affects the Doshas. For e.g. eating sweet foods will aggravate Kapha dosha having the same elemental composition (water + earth) Effect on Doshas Dosha Pacifying Aggravating Vata sweet sour salty astringent bitter pungent Pitta sweet bitter astringent sour salty pungent Kapha pungent bitter astringent sweet sour salty Using tastes to stay healthy: All the 6 tastes should be included in each meal. Once it becomes a habit the false cravings will slowly fade as all the nutrient needs will be fulfilled. For e.g. Sweet taste is rich in carbohydrates, lipids and proteins while bitter and astringent tastes are rich in minerals and vitamins. The key to balancing the body is choosing foods and herbs that have the opposite qualities of the doshic imbalance. For e.g Pitta imbalance causes hyperacidity, gastritis, heartburn, ulceration etc as a result of Pitta\u2019s hot and sharp qualities. Foods and herbs for balancing Pitta should be sweet, bitter and astringent all of which are having cold and dull properties."
+            ]
+        },
+        {
+            "tag": "What are the primary and adjunct tastes in Ayurveda?",
+            "patterns": [
+                "What are the primary and adjunct tastes in Ayurveda?"
+            ],
+            "responses": [
+                "Primary taste (pradhana rasa) is the first manifested taste, and adjunct or secondary taste (anurasa) is the one manifested at the end."
+            ],
+            "context": [
+                "Every substance has a primary taste (pradhana rasa) and adjunct or secondary taste (anurasa). The unmanifested taste is referred to as adjunct taste (anurasa). For example, when chewing chebulic myrobalan (haritaki), an astringent taste is exhibited. While the other four tastes remain unmanifested. Therefore, adjunct taste (anurasa) becomes manifested at the end, such as the emergence of sweet taste, etc. As with Indian gooseberry (amalaki), the sour taste comes first, followed by other tastes. According to Charak samhita, the first manifested taste of a material when it comes into touch with the tongue in a dry condition is recognized as the principal taste. It signifies that the main taste is the one that remains in the dry state and is experienced clearly. Whereas the adjunct taste is only present in the fresh form and is exhibited minimally towards the end. Chakrapanidatta interprets that taste and adjunct taste can be distinguished by manifestation; the former is manifested in all states, whereas the latter is always unmanifested and is known only by its faint appearance or inference from its action. However, that adjunct taste is felt in the end is a common experience, which is why Vagbhata has modified the definition accordingly. Therefore, to simplify this, the first manifested taste is the principal rasa, and the one manifested at the end is the adjunct or secondary rasa of the substance."
+            ]
+        },
+        {
+            "tag": "What is an example of a substance with a primary and adjunct taste?",
+            "patterns": [
+                "What is an example of a substance with a primary and adjunct taste?"
+            ],
+            "responses": [
+                "When chewing chebulic myrobalan (haritaki), an astringent taste is exhibited, and the adjunct taste (sweet) becomes manifested at the end."
+            ],
+            "context": [
+                "Every substance has a primary taste (pradhana rasa) and adjunct or secondary taste (anurasa). The unmanifested taste is referred to as adjunct taste (anurasa). For example, when chewing chebulic myrobalan (haritaki), an astringent taste is exhibited. While the other four tastes remain unmanifested. Therefore, adjunct taste (anurasa) becomes manifested at the end, such as the emergence of sweet taste, etc. As with Indian gooseberry (amalaki), the sour taste comes first, followed by other tastes. According to Charak samhita, the first manifested taste of a material when it comes into touch with the tongue in a dry condition is recognized as the principal taste. It signifies that the main taste is the one that remains in the dry state and is experienced clearly. Whereas the adjunct taste is only present in the fresh form and is exhibited minimally towards the end. Chakrapanidatta interprets that taste and adjunct taste can be distinguished by manifestation; the former is manifested in all states, whereas the latter is always unmanifested and is known only by its faint appearance or inference from its action. However, that adjunct taste is felt in the end is a common experience, which is why Vagbhata has modified the definition accordingly. Therefore, to simplify this, the first manifested taste is the principal rasa, and the one manifested at the end is the adjunct or secondary rasa of the substance."
+            ]
+        },
+        {
+            "tag": "How is the principal taste recognized according to Charak Samhita?",
+            "patterns": [
+                "How is the principal taste recognized according to Charak Samhita?"
+            ],
+            "responses": [
+                "The first manifested taste of a material when it comes into touch with the tongue in a dry condition is recognized as the principal taste."
+            ],
+            "context": [
+                "Every substance has a primary taste (pradhana rasa) and adjunct or secondary taste (anurasa). The unmanifested taste is referred to as adjunct taste (anurasa). For example, when chewing chebulic myrobalan (haritaki), an astringent taste is exhibited. While the other four tastes remain unmanifested. Therefore, adjunct taste (anurasa) becomes manifested at the end, such as the emergence of sweet taste, etc. As with Indian gooseberry (amalaki), the sour taste comes first, followed by other tastes. According to Charak samhita, the first manifested taste of a material when it comes into touch with the tongue in a dry condition is recognized as the principal taste. It signifies that the main taste is the one that remains in the dry state and is experienced clearly. Whereas the adjunct taste is only present in the fresh form and is exhibited minimally towards the end. Chakrapanidatta interprets that taste and adjunct taste can be distinguished by manifestation; the former is manifested in all states, whereas the latter is always unmanifested and is known only by its faint appearance or inference from its action. However, that adjunct taste is felt in the end is a common experience, which is why Vagbhata has modified the definition accordingly. Therefore, to simplify this, the first manifested taste is the principal rasa, and the one manifested at the end is the adjunct or secondary rasa of the substance."
+            ]
+        },
+        {
+            "tag": "How does Chakrapanidatta interpret taste and adjunct taste?",
+            "patterns": [
+                "How does Chakrapanidatta interpret taste and adjunct taste?"
+            ],
+            "responses": [
+                "Taste and adjunct taste can be distinguished by manifestation; the former is manifested in all states, whereas the latter is always unmanifested and is known only by its faint appearance or inference from its action."
+            ],
+            "context": [
+                "Every substance has a primary taste (pradhana rasa) and adjunct or secondary taste (anurasa). The unmanifested taste is referred to as adjunct taste (anurasa). For example, when chewing chebulic myrobalan (haritaki), an astringent taste is exhibited. While the other four tastes remain unmanifested. Therefore, adjunct taste (anurasa) becomes manifested at the end, such as the emergence of sweet taste, etc. As with Indian gooseberry (amalaki), the sour taste comes first, followed by other tastes. According to Charak samhita, the first manifested taste of a material when it comes into touch with the tongue in a dry condition is recognized as the principal taste. It signifies that the main taste is the one that remains in the dry state and is experienced clearly. Whereas the adjunct taste is only present in the fresh form and is exhibited minimally towards the end. Chakrapanidatta interprets that taste and adjunct taste can be distinguished by manifestation; the former is manifested in all states, whereas the latter is always unmanifested and is known only by its faint appearance or inference from its action. However, that adjunct taste is felt in the end is a common experience, which is why Vagbhata has modified the definition accordingly. Therefore, to simplify this, the first manifested taste is the principal rasa, and the one manifested at the end is the adjunct or secondary rasa of the substance."
+            ]
+        },
+        {
+            "tag": "What doshas does sweet taste pacify and increase?",
+            "patterns": [
+                "What doshas does sweet taste pacify and increase?"
+            ],
+            "responses": [
+                "Sweet taste pacifies vata and pitta while increasing kapha dosha."
+            ],
+            "context": [
+                "Sweet taste: Sweet taste pacifies vata and pitta while increasing kapha dosha, increases vigor, and aids elimination. Excessive usage causes polyuria (prameha) and other problems. While its absence may create illnesses related to vata dosha and pitta dosha aggravation."
+            ]
+        },
+        {
+            "tag": "What are the benefits of sweet taste?",
+            "patterns": [
+                "What are the benefits of sweet taste?"
+            ],
+            "responses": [
+                "Increases vigor and aids elimination."
+            ],
+            "context": [
+                "Sweet taste: Sweet taste pacifies vata and pitta while increasing kapha dosha, increases vigor, and aids elimination. Excessive usage causes polyuria (prameha) and other problems. While its absence may create illnesses related to vata dosha and pitta dosha aggravation."
+            ]
+        },
+        {
+            "tag": "What are the effects of excessive usage of sweet taste?",
+            "patterns": [
+                "What are the effects of excessive usage of sweet taste?"
+            ],
+            "responses": [
+                "Causes polyuria (prameha) and other problems."
+            ],
+            "context": [
+                "Sweet taste: Sweet taste pacifies vata and pitta while increasing kapha dosha, increases vigor, and aids elimination. Excessive usage causes polyuria (prameha) and other problems. While its absence may create illnesses related to vata dosha and pitta dosha aggravation."
+            ]
+        },
+        {
+            "tag": "What illnesses may be created by the absence of sweet taste?",
+            "patterns": [
+                "What illnesses may be created by the absence of sweet taste?"
+            ],
+            "responses": [
+                "Illnesses related to vata dosha and pitta dosha aggravation."
+            ],
+            "context": [
+                "Sweet taste: Sweet taste pacifies vata and pitta while increasing kapha dosha, increases vigor, and aids elimination. Excessive usage causes polyuria (prameha) and other problems. While its absence may create illnesses related to vata dosha and pitta dosha aggravation."
+            ]
+        },
+        {
+            "tag": "What doshas does sour taste stimulate and pacify?",
+            "patterns": [
+                "What doshas does sour taste stimulate and pacify?"
+            ],
+            "responses": [
+                "Sour taste stimulates kapha dosha and pitta dosha, while pacifying vata."
+            ],
+            "context": [
+                "Sour taste: Sour taste stimulates kapha dosha and pitta dosha, while pacifying vata. It reduces semen, and serves as a carminative, appetizer, and digestive. Excessive usage produces hyperacidity (amlapitta), and not taking it might cause a decrease in digestive capacity (agnimandya), among other things."
+            ]
+        },
+        {
+            "tag": "What are the benefits of sour taste?",
+            "patterns": [
+                "What are the benefits of sour taste?"
+            ],
+            "responses": [
+                "It reduces semen, and serves as a carminative, appetizer, and digestive."
+            ],
+            "context": [
+                "Sour taste: Sour taste stimulates kapha dosha and pitta dosha, while pacifying vata. It reduces semen, and serves as a carminative, appetizer, and digestive. Excessive usage produces hyperacidity (amlapitta), and not taking it might cause a decrease in digestive capacity (agnimandya), among other things."
+            ]
+        },
+        {
+            "tag": "What are the effects of excessive usage of sour taste?",
+            "patterns": [
+                "What are the effects of excessive usage of sour taste?"
+            ],
+            "responses": [
+                "Produces hyperacidity (amlapitta)."
+            ],
+            "context": [
+                "Sour taste: Sour taste stimulates kapha dosha and pitta dosha, while pacifying vata. It reduces semen, and serves as a carminative, appetizer, and digestive. Excessive usage produces hyperacidity (amlapitta), and not taking it might cause a decrease in digestive capacity (agnimandya), among other things."
+            ]
+        },
+        {
+            "tag": "What might be caused by not taking sour taste?",
+            "patterns": [
+                "What might be caused by not taking sour taste?"
+            ],
+            "responses": [
+                "A decrease in digestive capacity (agnimandya)."
+            ],
+            "context": [
+                "Sour taste: Sour taste stimulates kapha dosha and pitta dosha, while pacifying vata. It reduces semen, and serves as a carminative, appetizer, and digestive. Excessive usage produces hyperacidity (amlapitta), and not taking it might cause a decrease in digestive capacity (agnimandya), among other things."
+            ]
+        },
+        {
+            "tag": "What doshas does salty taste stimulate and pacify?",
+            "patterns": [
+                "What doshas does salty taste stimulate and pacify?"
+            ],
+            "responses": [
+                "Salty taste stimulates kapha dosha and pitta dosha, and pacifies vata dosha."
+            ],
+            "context": [
+                "Salty taste: Salty taste stimulates kapha dosha and pitta dosha, and pacifies vata dosha. It also decreases reproductive components (shukra dhatu) and is carminative, appetizer, digestive, and moistening. When taken in excess, it vitiates the blood and creates oedema. When not taken sufficiently, it causes loss of appetite, and vata-predominant illnesses."
+            ]
+        },
+        {
+            "tag": "What are the benefits of salty taste?",
+            "patterns": [
+                "What are the benefits of salty taste?"
+            ],
+            "responses": [
+                "Decreases reproductive components (shukra dhatu) and is carminative, appetizer, digestive, and moistening."
+            ],
+            "context": [
+                "Salty taste: Salty taste stimulates kapha dosha and pitta dosha, and pacifies vata dosha. It also decreases reproductive components (shukra dhatu) and is carminative, appetizer, digestive, and moistening. When taken in excess, it vitiates the blood and creates oedema. When not taken sufficiently, it causes loss of appetite, and vata-predominant illnesses."
+            ]
+        },
+        {
+            "tag": "What are the effects of excessive usage of salty taste?",
+            "patterns": [
+                "What are the effects of excessive usage of salty taste?"
+            ],
+            "responses": [
+                "It vitiates the blood and creates oedema."
+            ],
+            "context": [
+                "Salty taste: Salty taste stimulates kapha dosha and pitta dosha, and pacifies vata dosha. It also decreases reproductive components (shukra dhatu) and is carminative, appetizer, digestive, and moistening. When taken in excess, it vitiates the blood and creates oedema. When not taken sufficiently, it causes loss of appetite, and vata-predominant illnesses."
+            ]
+        },
+        {
+            "tag": "What might be caused by not taking salty taste sufficiently?",
+            "patterns": [
+                "What might be caused by not taking salty taste sufficiently?"
+            ],
+            "responses": [
+                "It causes loss of appetite, and vata-predominant illnesses."
+            ],
+            "context": [
+                "Salty taste: Salty taste stimulates kapha dosha and pitta dosha, and pacifies vata dosha. It also decreases reproductive components (shukra dhatu) and is carminative, appetizer, digestive, and moistening. When taken in excess, it vitiates the blood and creates oedema. When not taken sufficiently, it causes loss of appetite, and vata-predominant illnesses."
+            ]
+        },
+        {
+            "tag": "What doshas does pungent taste promote and decrease?",
+            "patterns": [
+                "What doshas does pungent taste promote and decrease?"
+            ],
+            "responses": [
+                "Pungent taste promotes vata dosha and pitta dosha, while decreasing kapha dosha."
+            ],
+            "context": [
+                "Pungent taste: Pungent taste promotes vata dosha and pitta dosha, while decreasing kapha dosha. It decreases reproductive components (shukra dhatu), regulates vata, stool, and urine flow, and activates digestive functions. When used excessively, it causes vata dosha and pitta dosha disorders. When not used at all, it causes kapha dosha disorders."
+            ]
+        },
+        {
+            "tag": "What are the benefits of pungent taste?",
+            "patterns": [
+                "What are the benefits of pungent taste?"
+            ],
+            "responses": [
+                "Decreases reproductive components (shukra dhatu), regulates vata, stool, and urine flow, and activates digestive functions."
+            ],
+            "context": [
+                "Pungent taste: Pungent taste promotes vata dosha and pitta dosha, while decreasing kapha dosha. It decreases reproductive components (shukra dhatu), regulates vata, stool, and urine flow, and activates digestive functions. When used excessively, it causes vata dosha and pitta dosha disorders. When not used at all, it causes kapha dosha disorders."
+            ]
+        },
+        {
+            "tag": "What are the effects of excessive usage of pungent taste?",
+            "patterns": [
+                "What are the effects of excessive usage of pungent taste?"
+            ],
+            "responses": [
+                "It causes vata dosha and pitta dosha disorders."
+            ],
+            "context": [
+                "Pungent taste: Pungent taste promotes vata dosha and pitta dosha, while decreasing kapha dosha. It decreases reproductive components (shukra dhatu), regulates vata, stool, and urine flow, and activates digestive functions. When used excessively, it causes vata dosha and pitta dosha disorders. When not used at all, it causes kapha dosha disorders."
+            ]
+        },
+        {
+            "tag": "What happens when pungent taste is not used at all?",
+            "patterns": [
+                "What happens when pungent taste is not used at all?"
+            ],
+            "responses": [
+                "It causes kapha dosha disorders."
+            ],
+            "context": [
+                "Pungent taste: Pungent taste promotes vata dosha and pitta dosha, while decreasing kapha dosha. It decreases reproductive components (shukra dhatu), regulates vata, stool, and urine flow, and activates digestive functions. When used excessively, it causes vata dosha and pitta dosha disorders. When not used at all, it causes kapha dosha disorders."
+            ]
+        },
+        {
+            "tag": "What are the benefits of bitter taste?",
+            "patterns": [
+                "What are the benefits of bitter taste?"
+            ],
+            "responses": [
+                "Bitter taste is absorbent and cleanses channels while soothing kapha dosha and pitta dosha."
+            ],
+            "context": [
+                "Bitter taste: Bitter taste is absorbent and cleanses channels while soothing kapha dosha and pitta dosha. When used extensively, vata dosha disorders arise."
+            ]
+        },
+        {
+            "tag": "What are the effects of extensive usage of bitter taste?",
+            "patterns": [
+                "What are the effects of extensive usage of bitter taste?"
+            ],
+            "responses": [
+                "Vata dosha disorders arise."
+            ],
+            "context": [
+                "Bitter taste: Bitter taste is absorbent and cleanses channels while soothing kapha dosha and pitta dosha. When used extensively, vata dosha disorders arise."
+            ]
+        },
+        {
+            "tag": "What doshas does astringent taste pacify and increase?",
+            "patterns": [
+                "What doshas does astringent taste pacify and increase?"
+            ],
+            "responses": [
+                "Astringent taste pacifies kapha dosha and pitta dosha, while increasing vata dosha."
+            ],
+            "context": [
+                "Astringent taste: Astringent taste pacifies kapha dosha and pitta dosha, while increasing vata dosha. It checks and suppresses digestive functions. Excessive usage produces vata prominent illnesses, and non-use causes kapha dosha and pitta dosha predominant ailments, as well as tissue loss."
+            ]
+        },
+        {
+            "tag": "What are the benefits of astringent taste?",
+            "patterns": [
+                "What are the benefits of astringent taste?"
+            ],
+            "responses": [
+                "It checks and suppresses digestive functions."
+            ],
+            "context": [
+                "Astringent taste: Astringent taste pacifies kapha dosha and pitta dosha, while increasing vata dosha. It checks and suppresses digestive functions. Excessive usage produces vata prominent illnesses, and non-use causes kapha dosha and pitta dosha predominant ailments, as well as tissue loss."
+            ]
+        },
+        {
+            "tag": "What are the effects of excessive usage of astringent taste?",
+            "patterns": [
+                "What are the effects of excessive usage of astringent taste?"
+            ],
+            "responses": [
+                "Produces vata prominent illnesses."
+            ],
+            "context": [
+                "Astringent taste: Astringent taste pacifies kapha dosha and pitta dosha, while increasing vata dosha. It checks and suppresses digestive functions. Excessive usage produces vata prominent illnesses, and non-use causes kapha dosha and pitta dosha predominant ailments, as well as tissue loss."
+            ]
+        },
+        {
+            "tag": "What might be caused by the non-use of astringent taste?",
+            "patterns": [
+                "What might be caused by the non-use of astringent taste?"
+            ],
+            "responses": [
+                "Causes kapha dosha and pitta dosha predominant ailments, as well as tissue loss."
+            ],
+            "context": [
+                "Astringent taste: Astringent taste pacifies kapha dosha and pitta dosha, while increasing vata dosha. It checks and suppresses digestive functions. Excessive usage produces vata prominent illnesses, and non-use causes kapha dosha and pitta dosha predominant ailments, as well as tissue loss."
+            ]
+        },
+        {
+            "tag": "What are the benefits of sweet taste?",
+            "patterns": [
+                "What are the benefits of sweet taste?"
+            ],
+            "responses": [
+                "Promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy."
+            ],
+            "context": [
+                "Sweet taste: Amongst the six rasas, the madhura rasa, because of its suitability to the body, promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy."
+            ]
+        },
+        {
+            "tag": "What dhatus does sweet taste promote?",
+            "patterns": [
+                "What dhatus does sweet taste promote?"
+            ],
+            "responses": [
+                "Promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra."
+            ],
+            "context": [
+                "Sweet taste: Amongst the six rasas, the madhura rasa, because of its suitability to the body, promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy."
+            ]
+        },
+        {
+            "tag": "How does sweet taste affect the six sense organs?",
+            "patterns": [
+                "How does sweet taste affect the six sense organs?"
+            ],
+            "responses": [
+                "It is pleasing to the six sense organs."
+            ],
+            "context": [
+                "Sweet taste: Amongst the six rasas, the madhura rasa, because of its suitability to the body, promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy."
+            ]
+        },
+        {
+            "tag": "What ailments does sweet taste alleviate?",
+            "patterns": [
+                "What ailments does sweet taste alleviate?"
+            ],
+            "responses": [
+                "Alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat."
+            ],
+            "context": [
+                "Sweet taste: Amongst the six rasas, the madhura rasa, because of its suitability to the body, promotes rasa dhatu, rakta, mamsa, meda dhatu, asthi dhatu, majja dhatu, ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy."
+            ]
+        },
+        {
+            "tag": "What are the benefits of sour taste?",
+            "patterns": [
+                "What are the benefits of sour taste?"
+            ],
+            "responses": [
+                "Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ],
+            "context": [
+                "Sour taste: Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ]
+        },
+        {
+            "tag": "What does amla rasa do to food?",
+            "patterns": [
+                "What does amla rasa do to food?"
+            ],
+            "responses": [
+                "Makes food relishing, stimulates agni, enhances body bulk and energizes it."
+            ],
+            "context": [
+                "Sour taste: Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ]
+        },
+        {
+            "tag": "How does sour taste affect the mind and sense organs?",
+            "patterns": [
+                "How does sour taste affect the mind and sense organs?"
+            ],
+            "responses": [
+                "Awakens the mind, firms the sense organs."
+            ],
+            "context": [
+                "Sour taste: Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ]
+        },
+        {
+            "tag": "What does sour taste do to vata?",
+            "patterns": [
+                "What does sour taste do to vata?"
+            ],
+            "responses": [
+                "Causes vatanulomana (normal movement of vata)."
+            ],
+            "context": [
+                "Sour taste: Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ]
+        },
+        {
+            "tag": "How does sour taste affect the heart?",
+            "patterns": [
+                "How does sour taste affect the heart?"
+            ],
+            "responses": [
+                "Nourishes the heart."
+            ],
+            "context": [
+                "Sour taste: Amla rasa makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases bala (strength), causes vatanulomana (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous."
+            ]
+        },
+        {
+            "tag": "What are the benefits of salt taste?",
+            "patterns": [
+                "What are the benefits of salt taste?"
+            ],
+            "responses": [
+                "Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ],
+            "context": [
+                "Salt: Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ]
+        },
+        {
+            "tag": "What effect does lavana rasa have on digestion?",
+            "patterns": [
+                "What effect does lavana rasa have on digestion?"
+            ],
+            "responses": [
+                "Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ],
+            "context": [
+                "Salt: Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ]
+        },
+        {
+            "tag": "What does salt taste do to kapha?",
+            "patterns": [
+                "What does salt taste do to kapha?"
+            ],
+            "responses": [
+                "Liquefies kapha."
+            ],
+            "context": [
+                "Salt: Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ]
+        },
+        {
+            "tag": "How does salt taste affect body parts?",
+            "patterns": [
+                "How does salt taste affect body parts?"
+            ],
+            "responses": [
+                "Softens all the body-parts."
+            ],
+            "context": [
+                "Salt: Lavana rasa is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot."
+            ]
+        },
+        {
+            "tag": "What are the benefits of pungent taste?",
+            "patterns": [
+                "What are the benefits of pungent taste?"
+            ],
+            "responses": [
+                "Katu rasa cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates alasaka, swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough."
+            ],
+            "context": [
+                "Pungent taste: Katu rasa cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates alasaka, swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough."
+            ]
+        },
+        {
+            "tag": "What does katu rasa do to the mouth?",
+            "patterns": [
+                "What does katu rasa do to the mouth?"
+            ],
+            "responses": [
+                "Cleanses mouth."
+            ],
+            "context": [
+                "Pungent taste: Katu rasa cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates alasaka, swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough."
+            ]
+        },
+        {
+            "tag": "How does pungent taste affect the sense organs?",
+            "patterns": [
+                "How does pungent taste affect the sense organs?"
+            ],
+            "responses": [
+                "Makes the sense organs clear."
+            ],
+            "context": [
+                "Pungent taste: Katu rasa cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates alasaka, swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough."
+            ]
+        },
+        {
+            "tag": "What does pungent taste do to kapha?",
+            "patterns": [
+                "What does pungent taste do to kapha?"
+            ],
+            "responses": [
+                "Pacifies kapha."
+            ],
+            "context": [
+                "Pungent taste: Katu rasa cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates alasaka, swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough."
+            ]
+        },
+        {
+            "tag": "What are the benefits of bitter taste?",
+            "patterns": [
+                "What are the benefits of bitter taste?"
+            ],
+            "responses": [
+                "Enhances appetite, is anti-poison, anthelmintic, alleviates fainting, burning sensation, itching, skin disorders and thirst, provides firmness to skin and muscles, is antipyretic, appetizer, digestive, galactodepurant (i.e., an agent that cleanses any adverse reaction of milk), lekhana (making thin), absorbs moisture, reduces fat, muscle-fat, marrow, lymph, pus, sweat, urine, feces, pitta and kapha; and is rough, cold and light."
+            ],
+            "context": [
+                "Bitter taste: Tikta rasa, though itself non-relishing, enhances appetite, is anti-poison, anthelmintic, alleviates fainting, burning sensation, itching, skin disorders and thirst, provides firmness to skin and muscles, is antipyretic, appetizer, digestive, galactodepurant (i.e., an agent that cleanses any adverse reaction of milk), lekhana (making thin), absorbs moisture, reduces fat, muscle-fat, marrow, lymph, pus, sweat, urine, feces, pitta and kapha; and is rough, cold and light."
+            ]
+        },
+        {
+            "tag": "What does tikta rasa do to appetite?",
+            "patterns": [
+                "What does tikta rasa do to appetite?"
+            ],
+            "responses": [
+                "Enhances appetite."
+            ],
+            "context": [
+                "Bitter taste: Tikta rasa, though itself non-relishing, enhances appetite, is anti-poison, anthelmintic, alleviates fainting, burning sensation, itching, skin disorders and thirst, provides firmness to skin and muscles, is antipyretic, appetizer, digestive, galactodepurant (i.e., an agent that cleanses any adverse reaction of milk), lekhana (making thin), absorbs moisture, reduces fat, muscle-fat, marrow, lymph, pus, sweat, urine, feces, pitta and kapha; and is rough, cold and light."
+            ]
+        },
+        {
+            "tag": "How does bitter taste affect pitta and kapha?",
+            "patterns": [
+                "How does bitter taste affect pitta and kapha?"
+            ],
+            "responses": [
+                "Reduces pitta and kapha."
+            ],
+            "context": [
+                "Bitter taste: Tikta rasa, though itself non-relishing, enhances appetite, is anti-poison, anthelmintic, alleviates fainting, burning sensation, itching, skin disorders and thirst, provides firmness to skin and muscles, is antipyretic, appetizer, digestive, galactodepurant (i.e., an agent that cleanses any adverse reaction of milk), lekhana (making thin), absorbs moisture, reduces fat, muscle-fat, marrow, lymph, pus, sweat, urine, feces, pitta and kapha; and is rough, cold and light."
+            ]
+        },
+        {
+            "tag": "What are the benefits of astringent taste?",
+            "patterns": [
+                "What are the benefits of astringent taste?"
+            ],
+            "responses": [
+                "Kashaya rasa is pacifying, astringent, union-promoting, compressing, healing, absorbing, checking (discharges), pacifies kapha, rakta and pitta, utilizes the body fluid, is rough, cold and slightly light."
+            ],
+            "context": [
+                "Astringent taste: Kashaya rasa is pacifying, astringent, union-promoting, compressing, healing, absorbing, checking (discharges), pacifies kapha, rakta and pitta, utilizes the body fluid, is rough, cold and slightly light."
+            ]
+        },
+        {
+            "tag": "What doshas does astringent taste pacify?",
+            "patterns": [
+                "What doshas does astringent taste pacify?"
+            ],
+            "responses": [
+                "Pacifies kapha, rakta and pitta."
+            ],
+            "context": [
+                "Astringent taste: Kashaya rasa is pacifying, astringent, union-promoting, compressing, healing, absorbing, checking (discharges), pacifies kapha, rakta and pitta, utilizes the body fluid, is rough, cold and slightly light."
+            ]
+        },
+        {
+            "tag": "What are the physical properties of kashaya rasa?",
+            "patterns": [
+                "What are the physical properties of kashaya rasa?"
+            ],
+            "responses": [
+                "Rough, cold and slightly light."
+            ],
+            "context": [
+                "Astringent taste: Kashaya rasa is pacifying, astringent, union-promoting, compressing, healing, absorbing, checking (discharges), pacifies kapha, rakta and pitta, utilizes the body fluid, is rough, cold and slightly light."
+            ]
+        }
+    ]
+}
